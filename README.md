@@ -1,4 +1,6 @@
-### Hey you! Yes you! Thank you for visitng 👋
+### Hey you! Yes you!
+### I'm Sambhav Jain, Thank you for visitng 👋
+
 
 - 🔭 I’m currently working at ... InterviewBit
 - 🌱 I’m currently learning ... ReactJS
