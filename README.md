@@ -24,4 +24,12 @@
 <br />
 
 ---
+**GITHUB STATS:**  
+<br/>
+<a href="https://github.com/Sambhav22/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sambhav22&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
+</a>
+<a href="https://github.com/Sambhav22/">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhav22&theme=dark&hide_langs_below=0" />
+</a>
 
